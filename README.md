@@ -1,6 +1,6 @@
 # Shell Script to install all Kali Tools on Ubuntu
 
-Install all Kali Linux tools on an Ubuntu system. You can use the Kali Linux repositories and the kali-tools meta-packages. Kali provides meta-packages to install various sets of tools based on categories. Here’s how you can set up a script to install all Kali Linux tools on Ubuntu.
+Install all Kali Linux Pen-Testing tools on an Ubuntu system. You can use the Kali Linux repositories and the kali-tools meta-packages. Kali provides meta-packages to install various sets of tools based on categories. Here’s how you can set up a script to install all Kali Linux tools on Ubuntu.
 
 # Why I made this script
 
