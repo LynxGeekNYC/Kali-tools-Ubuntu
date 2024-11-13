@@ -4,7 +4,7 @@ Install all Kali Linux Pen-Testing tools on an Ubuntu system. You can use the Ka
 
 # Why I made this script
 
-Kali has some "decent" scripts but I hate the OS and Prefer to use Ubuntu because it creates the least amount of headaches for me.
+Kali has some "decent" scripts but I hate the OS and Prefer to use Core Ubuntu because it creates the least amount of headaches for me. Yes. I am well aware that Ubuntu is based on Debian but this is a preference for me.
 
 # Was this script helpful to you? Please donate:
 
