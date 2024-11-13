@@ -5,3 +5,13 @@ Install all Kali Linux tools on an Ubuntu system. You can use the Kali Linux rep
 # Why I made this script
 
 Kali has some "decent" scripts but I hate the OS and Prefer to use Ubuntu because it creates the least amount of headaches for me.
+
+# Was this script helpful to you? Please donate:
+
+I put a lot of work into these scripts so please donate if you can. Even $1 helps!
+
+PayPal: alex@alexandermirvis.com
+
+CashApp / Venmo: LynxGeekNYC
+
+BitCoin: bc1q8sthd96c7chhq5kr3u80xrxs26jna9d8c0mjh7
